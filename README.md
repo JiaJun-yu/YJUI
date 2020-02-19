@@ -1,4 +1,4 @@
-# yj-ui
+# yj-ui ready~
 
 ## Project setup
 ```
