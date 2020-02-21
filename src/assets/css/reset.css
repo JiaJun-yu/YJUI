@@ -1,0 +1,46 @@
+/* 全局reset css */
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote,
+dl, dt, dd, ul, ol, li,
+fieldset, lengend, button, input, textarea,
+th, td , table, div, label, span {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'PingFangSC-Regular';
+}
+
+html {
+  font-size: 100px
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+input {
+  outline: none;
+  border: none;
+}
+
+div {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+img {
+  max-width: 100%;
+}
