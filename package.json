@@ -1,6 +1,7 @@
 {
   "name": "yjui",
   "version": "1.0.0",
+  "description": "基于 Vue 的按钮",
   "keywords": [
     "vue",
     "component"
